@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../trainingMaterial/Project1/Project1.iml" filepath="$PROJECT_DIR$/../../trainingMaterial/Project1/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acceptance-test.iml" filepath="$PROJECT_DIR$/acceptance-test.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/BmiCalculator-master/bmicalculator.test/src/test/test.iml" filepath="$USER_HOME$/Downloads/BmiCalculator-master/bmicalculator.test/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
+

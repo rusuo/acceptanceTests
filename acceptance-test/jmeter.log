@@ -1,0 +1,91 @@
+2013/08/13 10:39:13 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_GB 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: Loading user properties from: /home/tris/apache-jmeter-2.9/bin/user.properties 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: Loading system properties from: /home/tris/apache-jmeter-2.9/bin/system.properties 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: Copyright (c) 1998-2013 The Apache Software Foundation 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: Version 2.9 r1437961 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: java.version=1.7.0_25 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: os.name=Linux 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: os.arch=amd64 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: os.version=3.8.0-26-generic 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: Default Locale=English (United Kingdom) 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: JMeter  Locale=English (United Kingdom) 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: JMeterHome=/home/tris/apache-jmeter-2.9 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: user.dir  =/home/tris/Documents/pivotal-uni/acceptance-test 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: PWD       =/home/tris/Documents/pivotal-uni/acceptance-test 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: IP: 127.0.1.1 Name: tris-opencredo-laptop FullName: tris-opencredo-laptop 
+2013/08/13 10:39:13 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2013/08/13 10:39:14 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2013/08/13 10:39:14 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2013/08/13 10:39:14 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
+2013/08/13 10:39:15 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2013/08/13 10:39:16 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2013/08/13 10:39:16 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2013/08/13 10:39:16 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2013/08/13 10:39:16 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2013/08/13 10:39:16 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2013/08/13 10:39:16 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2013/08/13 10:39:16 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
+2013/08/13 10:39:16 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2013/08/13 10:39:16 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2013/08/13 10:39:16 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2013/08/13 10:39:16 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2013/08/13 10:39:16 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2013/08/13 10:39:24 INFO  - jmeter.services.FileServer: Default base='/home/tris/Documents/pivotal-uni/acceptance-test' 
+2013/08/13 10:39:24 INFO  - jmeter.gui.action.Load: Loading file: /home/tris/Desktop/pivotal-terminal.jmx 
+2013/08/13 10:39:24 INFO  - jmeter.services.FileServer: Set new base='/home/tris/Desktop' 
+2013/08/13 10:39:24 WARN  - jmeter.gui.action.Load: Error reading file: java.io.FileNotFoundException: /home/tris/Desktop/pivotal-terminal.jmx (No such file or directory) 
+2013/08/13 10:39:35 INFO  - jmeter.gui.action.Load: Loading file: /home/tris/Documents/pivotal-uni/performance-test/pivotal-terminal.jmx 
+2013/08/13 10:39:35 INFO  - jmeter.services.FileServer: Set new base='/home/tris/Documents/pivotal-uni/performance-test' 
+2013/08/13 10:39:35 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2013/08/13 10:39:35 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2013/08/13 10:39:35 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1427507 
+2013/08/13 10:39:35 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.4 
+2013/08/13 10:39:35 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2013/08/13 10:39:36 INFO  - jmeter.services.FileServer: Set new base='/home/tris/Documents/pivotal-uni/performance-test' 
+2013/08/13 10:56:11 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2013/08/13 10:56:11 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2013/08/13 10:56:11 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2013/08/13 10:56:11 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2013/08/13 10:56:11 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Complete tutorial 
+2013/08/13 10:56:11 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Complete tutorial. 
+2013/08/13 10:56:11 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/08/13 10:56:11 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/08/13 10:56:11 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2013/08/13 10:56:11 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2013/08/13 10:56:11 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2013/08/13 10:56:11 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2013/08/13 10:56:11 INFO  - jmeter.threads.JMeterThread: Thread started: Complete tutorial 1-1 
+2013/08/13 10:56:11 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = tris-opencredo-laptop 
+2013/08/13 10:56:11 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 1 
+2013/08/13 10:56:11 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2013/08/13 10:56:11 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2013/08/13 10:56:11 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2013/08/13 10:56:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Complete tutorial 1-1 
+2013/08/13 10:56:14 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2013/08/13 10:56:14 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2013/08/13 11:46:45 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2013/08/13 11:46:45 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2013/08/13 11:46:45 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Complete tutorial 
+2013/08/13 11:46:45 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Complete tutorial. 
+2013/08/13 11:46:45 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/08/13 11:46:45 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/08/13 11:46:45 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2013/08/13 11:46:45 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2013/08/13 11:46:45 INFO  - jmeter.threads.JMeterThread: Thread started: Complete tutorial 1-1 
+2013/08/13 11:46:47 INFO  - jmeter.threads.JMeterThread: Thread finished: Complete tutorial 1-1 
+2013/08/13 11:46:47 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2013/08/13 11:46:47 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2013/08/13 14:06:45 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2013/08/13 14:06:45 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2013/08/13 14:06:45 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Complete tutorial 
+2013/08/13 14:06:45 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Complete tutorial. 
+2013/08/13 14:06:45 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/08/13 14:06:45 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/08/13 14:06:45 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2013/08/13 14:06:45 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2013/08/13 14:06:45 INFO  - jmeter.threads.JMeterThread: Thread started: Complete tutorial 1-1 
+2013/08/13 14:06:48 INFO  - jmeter.threads.JMeterThread: Thread finished: Complete tutorial 1-1 
+2013/08/13 14:06:48 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2013/08/13 14:06:48 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
